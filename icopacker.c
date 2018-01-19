@@ -2,7 +2,7 @@
 //  icopacker
 //
 //  compilation:
-//    clang -g0 -Ofast -std=c11 -fno-pic -fstrict-aliasing -fno-common -fvisibility=hidden -Wno-parentheses icopacker.c -o icopacker
+//    clang -g0 -O3 -std=c11 -fno-pic -fstrict-aliasing -fno-common -fvisibility=hidden -Wno-parentheses icopacker.c -o icopacker
 //
 //  usage:
 //    icopacker <PNG_input_file_directory> <ICO_output_file>

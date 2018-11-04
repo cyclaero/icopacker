@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7EBC58422048658700390DC9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 7EBC58412048658700390DC9 /* README.md */; };
 		7EBE2DF81F1EBCB600432A1D /* icopacker.c in Sources */ = {isa = PBXBuildFile; fileRef = 7EBE2DF71F1EBCB600432A1D /* icopacker.c */; };
 /* End PBXBuildFile section */
 
@@ -118,7 +117,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7EBC58422048658700390DC9 /* README.md in Sources */,
 				7EBE2DF81F1EBCB600432A1D /* icopacker.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
